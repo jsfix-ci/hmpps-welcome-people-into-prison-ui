@@ -37,7 +37,6 @@
     "globals": {
       "ts-jest": {
         "isolatedModules": true
-
       }
     },
     "collectCoverageFrom": [
@@ -124,7 +123,7 @@
     "static-path": "^0.0.4",
     "superagent": "^8.0.0",
     "universal-analytics": "^0.5.3",
-    "uuid": "^8.3.2"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/bunyan": "^1.8.8",
